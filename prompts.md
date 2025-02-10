@@ -1,4 +1,4 @@
-Mystery Dining Reservation Form:
+Use Bootstrap to create a reservation form with the following fields:
 - Name:
 - Email:
 - Zip Code:
