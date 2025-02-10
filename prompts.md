@@ -1,12 +1,5 @@
-Use Bootstrap to create a reservation form with the following fields:
-- Name:
-- Email:
-- Zip Code:
-- Party Size:
-- Adventure Level: (Dropdown options: Mild, Spicy, Wild)
+## Prompt 1
+Create a Bootstrap form inside the .form-placeholder div with fields for Name, Email, Zip Code, Party Size, and a dropdown for Adventure Level.
 
-Additional Fields:
-- Checkbox: "Would you like to pretend it's your birthday for free cake?"
-- Confirmation Checkbox: "I accept that I have no idea where I'll be eating, and I'm okay with that."
-
-Submit Button Text: "Book My Mystery Meal!" 
+## Prompt 2
+Add a checkbox labeled 'Would you like to pretend it's your birthday for free cake?' and another for 'I accept that I have no idea where I'll be eating, and that's OK.' 

@@ -135,10 +135,11 @@ nav ul li a:hover {
 /* Reservation Card */
 .reservation-card {
   background-color: #ffffff;
-  padding: 24px;
+  padding: 30px;
   border-radius: 5px; /* Approximately 0.3125rem */
+  border: 1px dashed #babbbd;
   box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
-  max-width: 400px;
+  max-width: 500px;
   margin: 0 auto;
   text-align: left;
 }
@@ -155,10 +156,6 @@ nav ul li a:hover {
 }
 
 .form-placeholder {
-  border: 1px dashed #d8d9db;
-  padding: 16px;
-  text-align: center;
-  color: #da3743;
   border-radius: 5px;
 }
 
