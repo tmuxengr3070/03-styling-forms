@@ -32,6 +32,10 @@ h1 {
   margin: 0 auto;
 }
 
+.form-label {
+  font-weight: bold;
+}
+
 /* Header */
 header {
   background-color: #ffffff;
